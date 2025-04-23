@@ -1,5 +1,16 @@
 ---
 icon: cart-shopping
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Módulo Compras (Purcharge)
