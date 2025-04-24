@@ -4,7 +4,7 @@
 
 ## Manuais
 
-* [Módulo Compras (Purcharge)](manuais/modulo-compras-purcharge.md)
+* [Módulo Compras (Purchase)](manuais/modulo-compras-purchase.md)
 * [Módulo Contabilidade (Account)](manuais/modulo-contabilidade-account.md)
 * [Módulo Custos](manuais/modulo-custos.md)
 * [Módulo Estoque (Stock)](manuais/modulo-estoque-stock.md)
