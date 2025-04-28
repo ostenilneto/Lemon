@@ -1,4 +1,8 @@
 ---
+description: >-
+  O Manual do Módulo de Compras tem como objetivo orientar usuários no uso
+  correto e eficiente das funcionalidades disponíveis para a gestão de processos
+  de aquisição dentro do sistema ERP.
 icon: cart-shopping
 layout:
   title:
