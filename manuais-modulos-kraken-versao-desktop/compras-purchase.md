@@ -4,13 +4,13 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # Compras (Purchase)
@@ -21,19 +21,19 @@ layout:
 
 {% stepper %}
 {% step %}
-## Objetivo
+### Objetivo
 
 Estabelecer um procedimento padrão para assegurar que os processos de compras de materiais (matérias primas e/ou insumos), permanentes ou serviços sejam realizados com as especificações e as garantias necessárias, bem como assegurar que os fornecedores que afetam a qualidade dos produtos finais tenham capacidade técnica comprovada de atendimento.
 {% endstep %}
 
 {% step %}
-## &#x20;Área de Aplicação
+### &#x20;Área de Aplicação
 
 Este procedimento se aplica para os setores de Compras, Tecnologia da Informação, Serviços Gerais, Serviços de Apoio Operacional, Manutenção Predial, Gestão da Qualidade e Obras.
 {% endstep %}
 
 {% step %}
-## Responsabilidades
+### Responsabilidades
 
 É responsabilidade do setor de compras elaborar as cotações de preços, realizar as compras e acompanhá-las até o momento da entrega, fazendo os contatos com fornecedores.&#x20;
 
@@ -41,7 +41,7 @@ Este procedimento se aplica para os setores de Compras, Tecnologia da Informaç�
 {% endstep %}
 
 {% step %}
-## Definição e Conceitos
+### Definição e Conceitos
 
 1. **Solicitação de Compra (SC) –** Processo inicial de uma compra, através do qual será solicitada a compra de um material ou serviço informando quantidade, descrição, prazo de entrega, local de entrega e todas as informações que serão necessárias para a compra.&#x20;
 2. **Mapa de Cotação (MC) –** Documento que demonstra as cotações dos produtos solicitados, subdividindo-as por fornecedor. O comprador deverá comparar as cotações e escolher o melhor preço, prazo de entrega e condições de pagamento.&#x20;
@@ -55,7 +55,7 @@ Este procedimento se aplica para os setores de Compras, Tecnologia da Informaç�
 {% endstep %}
 
 {% step %}
-## Procedimento
+### Procedimento
 
 O procedimento de compra pode se resumir nos seguintes pontos: \
 •      Solicitação de compra;\
@@ -80,7 +80,7 @@ O procedimento de compra pode se resumir nos seguintes pontos: \
     Quando o comprador selecionar o mínimo de três fornecedores para suprir a solicitação, o mesmo deverá apresentar os fornecedores selecionados ao responsável pela solicitação que deverá avaliar se os mesmos atendem aos requisitos técnicos exigidos para o produto ou serviço. \
     **Nota:** Caso estejam sendo cotados itens recorrentes ou quando o material ou serviço solicitado se tratar de fornecimento exclusivo, deverá gerar pedido de compra direta sem processo de compra, e o mesmo será preenchido apenas com o fornecedor que possa atender as particularidades exigidas. \
     \
-    3.1 **Requisitos de Qualificação para Fornecimento de Materiais ou Serviços**&#x20;
+    1\.   **Requisitos de Qualificação para Fornecimento de Materiais ou Serviços**&#x20;
 
     Considera-se fornecedor qualificado aquele que atenda a um ou mais dos itens descritos abaixo:&#x20;
 
@@ -138,5 +138,7 @@ O procedimento de compra pode se resumir nos seguintes pontos: \
     O responsável pela auditoria auditará uma amostragem de dez mapas de cotação do contrato.
 
     Caso sejam verificadas anomalias, as tratativas ficarão a cargo da diretoria.
+
+<figure><img src="../.gitbook/assets/Compras.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
