@@ -17,6 +17,8 @@ layout:
 
 <figure><img src="../.gitbook/assets/Header-Compras.jpg" alt=""><figcaption><p>O Manual do Módulo de Compras tem como objetivo orientar usuários no uso correto e eficiente das funcionalidades disponíveis para a gestão de processos de aquisição dentro do sistema ERP.</p></figcaption></figure>
 
+***
+
 {% stepper %}
 {% step %}
 ## Objetivo
