@@ -15,7 +15,7 @@ layout:
 
 # Compras (Purchase)
 
-<figure><img src="../.gitbook/assets/Header-Compras-fotor-20250428114426.png" alt=""><figcaption><p>O Manual do Módulo de Compras tem como objetivo orientar usuários no uso correto e eficiente das funcionalidades disponíveis para a gestão de processos de aquisição dentro do sistema ERP.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Header-Compras-fotor-20250428114426.png" alt=""><figcaption><p>O Manual do Módulo de Compras tem como objetivo orientar usuários no uso correto e eficiente das funcionalidades disponíveis para a gestão de processos de aquisição dentro do sistema ERP.</p></figcaption></figure>
 
 ***
 
@@ -139,6 +139,6 @@ O procedimento de compra pode se resumir nos seguintes pontos: \
 
     Caso sejam verificadas anomalias, as tratativas ficarão a cargo da diretoria.
 
-<figure><img src="../.gitbook/assets/Compras.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Compras.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
