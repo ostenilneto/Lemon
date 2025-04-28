@@ -57,15 +57,14 @@ Este procedimento se aplica para os setores de Compras, Tecnologia da Informaç�
 {% step %}
 ## Procedimento
 
-O procedimento de compra pode se resumir nos seguintes pontos:&#x20;
-
-* Solicitação de compra;
-* Pré seleção dos fornecedores;
-* Seleção dos fornecedores através do mapa de cotação;
-* Ordem de Compra;
-* Recebimento do material/serviço com a Nota Fiscal e liquidação da Ordem de Compra;
-* Avaliação dos fornecedores;
-* Auditoria de compras.&#x20;
+O procedimento de compra pode se resumir nos seguintes pontos: \
+•      Solicitação de compra;\
+•      Pré seleção dos fornecedores;\
+•      Seleção dos fornecedores através do mapa de cotação;\
+•      Ordem de Compra;\
+•      Recebimento do material/serviço com a Nota Fiscal e liquidação da Ordem de Compra;\
+•      Avaliação dos fornecedores;\
+•      Auditoria de compras.&#x20;
 
 
 
@@ -104,7 +103,7 @@ O procedimento de compra pode se resumir nos seguintes pontos:&#x20;
 
     A Ordem de Compra de Material / Serviço deverá ser conferida e aprovada pelo aprovador de acordo com o item 5.4.1 deste manual, a partir deste momento o comprador poderá enviar a Ordem de Compra de Material / Serviço para o fornecedor. Por fim, o comprador encaminhará cópia da Ordem de Compra de Material / Serviço para os responsáveis pelo recebimento dos produtos e/ou serviços adquiridos. \
     \
-    **4.1       Limites de Competência** \
+    1\.   **Limites de Competência** \
     Autorização de despesas relativas à aquisição de materiais e/ou serviços podem ser aprovadas pelo gerente de compras em até R$ 5.000,00 (cinco mil reais), os demais gerentes do escritório central ou colaborador delegado pela diretoria podem aprovar até R$ 1.000,00 (mil reais), despesas acima desse valor devem ser autorizadas pela diretoria imediata do solicitante. \
     Os limites de competência para os gestores de contratos serão definidos pela diretoria na abertura do centro de custo, caso as despesas ultrapassem a alçada definida, devem ser autorizadas pela diretoria responsável pela gestão do contrato.&#x20;
 5. **Recebimento**\
@@ -124,13 +123,11 @@ O procedimento de compra pode se resumir nos seguintes pontos:&#x20;
     c)      03 ponto (Bom)\
     \
     O fornecedor deve apontar resultado igual ou superior a 8 pontos, em caso de divergências serão tomadas providencias juntamente com a Diretoria, que podem ser:\
-    \<ul>\
-    \<li>Contato telefônico ou e-mail solicitando melhorias;\</li>
+    •      Contato telefônico ou e-mail solicitando melhorias;
 
-    Suspensão do fornecedor até a correção das divergências;
+    •      Suspensão do fornecedor até a correção das divergências;
 
-    Exclusão do fornecedor.\
-    \</ul>\
+    •      Exclusão do fornecedor.\
     \
     **Nota:** As providencias descritas acima não são aplicáveis aos fornecedores exclusivos.\
 
