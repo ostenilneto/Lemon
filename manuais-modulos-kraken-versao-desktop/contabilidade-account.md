@@ -2,9 +2,7 @@
 icon: calculator
 ---
 
-# Módulo Contabilidade (Account)
-
-GitBook supports many different types of content, and is backed by Markdown — meaning you can copy and paste any existing Markdown files directly into the editor!
+# Contabilidade (Account)
 
 <figure><img src="https://gitbookio.github.io/onboarding-template-images/markdown-hero.png" alt=""><figcaption></figcaption></figure>
 

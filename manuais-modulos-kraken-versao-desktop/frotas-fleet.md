@@ -2,5 +2,6 @@
 icon: cars
 ---
 
-# Módulo Frotas (Fleet)
+# Frotas (Fleet)
 
+<figure><img src="../.gitbook/assets/frotas.jpg" alt=""><figcaption></figcaption></figure>
