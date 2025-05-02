@@ -2,7 +2,9 @@
 icon: coins
 ---
 
-# Módulo Financeiro
+# Financeiro (Financer)
+
+<figure><img src="../.gitbook/assets/financeiro.jpg" alt=""><figcaption></figcaption></figure>
 
 You can sync GitBook pages with an OpenAPI or Swagger file or a URL to include auto-generated API methods in your documentation.
 
