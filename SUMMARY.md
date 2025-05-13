@@ -9,6 +9,7 @@
 * [Contabilidade (Account)](manuais-modulos-kraken-versao-desktop/contabilidade-account.md)
 * [Custos (Manager)](manuais-modulos-kraken-versao-desktop/custos-manager.md)
 * [Estoque (Stock)](manuais-modulos-kraken-versao-desktop/estoque-stock/README.md)
+  * [Aceite de Documentos Fiscais](manuais-modulos-kraken-versao-desktop/estoque-stock/aceite-de-documentos-fiscais.md)
   * [Inventário Almoxarifado](manuais-modulos-kraken-versao-desktop/estoque-stock/inventario-almoxarifado.md)
 * [Financeiro (Financer)](manuais-modulos-kraken-versao-desktop/financeiro-financer.md)
 * [Fiscal (Inspector)](manuais-modulos-kraken-versao-desktop/fiscal-inspector.md)
