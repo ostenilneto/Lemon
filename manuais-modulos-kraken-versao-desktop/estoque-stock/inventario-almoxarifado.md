@@ -37,8 +37,6 @@ layout:
 * 8.2 Erros no sistema ERP Kraken
 * 8.3 Problemas na requisição de itens
 
-9. Controle de Revisões
-
 ***
 
 ### 1. Introdução
@@ -82,7 +80,7 @@ Aplica-se ao setor de almoxarifado e demais usuários responsáveis pela requisi
 2. Escolha a unidade de almoxarifado clicando no ícone do livro, após clique em “Ok”.
 3. Clique no botão “Abrir”, informe a data de início do Inventário e clique em “Ok”.
 4. Abrirá uma nova tela de Lançamento do inventário.
-5.
+5.  Incluir item e contagem.
 
     1º Clique no botão “Incluir”;
 
@@ -90,15 +88,76 @@ Aplica-se ao setor de almoxarifado e demais usuários responsáveis pela requisi
 
     3º Pesquise o item e dê duplo clique para que ele seja selecionado.
 
-    4º Adicione a quantidade da contagem, para continuar lançando os itens na sequência clique no botão “Continuar” e para confirmar clique em “Ok”.
+    4º Adicione a quantidade da contagem, para continuar lançando os itens na sequência clique no botão “Continuar” e para confirmar clique em “Ok”.\
+    Se preferir, é possível consultar na própria tela de inclusão do item. Pela descrição ou digitando o código completo do item.
 
 #### 6.3 Processar Inventário
 
+1. Após o lançamento de todos os itens e conferir toda a quantidade lançada, clique em “Processar...”.
+2. Selecione a ordem e clique em "Emitir e Enviar".
+3. Escolha o meio de envio (e-mail, sistema integrado, etc.).
+
 #### 6.4 Opções
+
+1. Na tela Lançamento do inventário, há vários botões. Há possibilidades de incluir, alterar e excluir lançamentos. Zerar saldos, processar e anular o inventário. Há possibilidade de usar leitor de códigos de barra. Consultar histórico e cadastro do item.
 
 ### 7. Boas Práticas
 
+* Anotar qualquer discrepância e investigar a causa.
+* Identificar causas de diferenças (extravio, erro de lançamento, perdas).
+* Evitar requisições durante o inventário para não comprometer a contagem.
+* Registrar todas as movimentações no sistema para manter o inventário sempre atualizado.
+
 ### 8. Solução de Problemas (FAQ)
+
+#### 8.1 Problema na contagem do Inventário
+
+**❌ Diferença entre contagem física e saldo no sistema.**\
+**✔ Solução:**
+
+* Verifique se houve movimentação de itens durante o inventário.
+* Confira se houve erro de digitação ou unidade de medida incorreta.
+* Refaça a contagem com dupla conferência.
+* Se a diferença persistir, consulte o histórico de movimentações.
+
+**❌ Item não encontrado na contagem**\
+**✔ Solução:**
+
+* Pesquise no sistema pelo código do item e verifique seu local de armazenamento.
+* Confirme se o item está cadastrado corretamente.
+* Verifique se houve saída não registrada ou erro no armazenamento.
+
+#### 8.2 Erros no sistema ERP Kraken
+
+**❌ Não é possível acessar o módulo de inventário**\
+**✔ Solução:**
+
+* Confirme se o usuário tem as permissões corretas no sistema.
+* Verifique se há alguma atualização ou manutenção no ERP.
+* Reinicie o sistema e tente novamente.
+
+**❌ Erro ao processar o inventário**\
+**✔ Solução:**
+
+* Verifique se todas as contagens foram registradas corretamente.
+* Confira se há itens com saldo negativo ou não lançados.
+* Consulte o suporte técnico do sistema ERP, se necessário.
+
+#### 8.3 Problemas na Requisição de Itens
+
+**❌ Item solicitado não está disponível no estoque**\
+**✔ Solução:**
+
+* Verifique se o item realmente está em falta ou se há erro de registro.
+* Consulte o histórico de movimentações para checar saídas recentes.
+* Notifique o setor de compras para reposição do item.
+
+**❌ Item requisitado está danificado ou vencido**\
+**✔ Solução:**
+
+* Identifique a causa do problema (armazenamento inadequado, validade expirada).
+* Separe os itens não conformes e registre a ocorrência.
+* Ajuste os estoques no sistema e acione fornecedores, se necessário.
 
 
 
