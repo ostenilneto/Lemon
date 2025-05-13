@@ -1,3 +1,7 @@
+---
+icon: basket-shopping
+---
+
 # Processo de Compra
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
