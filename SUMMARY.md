@@ -5,7 +5,8 @@
 ## Manuais Módulos Kraken Versão Desktop
 
 * [Compras (Purchase)](manuais-modulos-kraken-versao-desktop/compras-purchase/README.md)
-  * [Processo de Compra](manuais-modulos-kraken-versao-desktop/compras-purchase/processo-de-compra.md)
+  * [Processo de Compra](manuais-modulos-kraken-versao-desktop/compras-purchase/processo-de-compra/README.md)
+    * [Passo a passo](manuais-modulos-kraken-versao-desktop/compras-purchase/processo-de-compra/passo-a-passo.md)
 * [Contabilidade (Account)](manuais-modulos-kraken-versao-desktop/contabilidade-account.md)
 * [Custos (Manager)](manuais-modulos-kraken-versao-desktop/custos-manager.md)
 * [Estoque (Stock)](manuais-modulos-kraken-versao-desktop/estoque-stock/README.md)
