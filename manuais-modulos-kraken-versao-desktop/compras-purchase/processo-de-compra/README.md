@@ -1,16 +1,5 @@
 ---
 icon: basket-shopping
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Processo de Compra
@@ -94,8 +83,7 @@ O procedimento de compra pode se resumir nos seguintes pontos: \
 
     f)       Verificação de material ou serviço fornecido;
 
-    g)      Melhor Preço. \
-
+    g)      Melhor Preço. <br>
 4.  **Ordem de Compra** \
     Após o aprovador selecionar o melhor fornecedor para a compra em questão, o comprador, homologa a Ordem de Compra de Material / Serviço com os dados do fornecedor, quantidade, condição de pagamento, descrição, preços, data e local de entrega.&#x20;
 
@@ -127,8 +115,7 @@ O procedimento de compra pode se resumir nos seguintes pontos: \
 
     •      Exclusão do fornecedor.\
     \
-    **Nota:** As providencias descritas acima não são aplicáveis aos fornecedores exclusivos.\
-
+    **Nota:** As providencias descritas acima não são aplicáveis aos fornecedores exclusivos.<br>
 7.  **Auditoria de Compras**&#x20;
 
     Periodicamente será realizada pelo gerente de compras a auditoria das compras realizadas pelos setores responsáveis por gestão de contrato.
